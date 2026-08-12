@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ru-vi",
+    "file": "seeds/dicts/ru-vi.json",
+    "type": "ru-vi-dict",
+    "label": "Từ điển Nga–Việt",
+    "description": "94,038 từ — dịch nghĩa tiếng Việt",
+    "sizeBytes": 7265541,
+    "dictSource": "ru-vi"
+  },
+  {
+    "id": "ozhegov-shvedova",
+    "file": "seeds/dicts/ozhegov-shvedova.json",
+    "type": "stardict-json",
+    "label": "Толковый словарь Ожегова-Шведовой",
+    "description": "39,824 từ — giải thích nghĩa tiếng Nga",
+    "sizeBytes": 14500000,
+    "dictSource": "sd:Ozhegov Shvedova (Ru-Ru)"
+  }
+]

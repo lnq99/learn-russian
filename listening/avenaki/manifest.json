@@ -1,0 +1,4 @@
+{
+    "base_url": "https://raw.githubusercontent.com/avenaki/speech-recognition-dataset/master/recordings/",
+    "file_name_format": "{id_speaker}.{id_phrase}.mp4"
+}
