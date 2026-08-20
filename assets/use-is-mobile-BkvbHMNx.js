@@ -1,0 +1,1 @@
+import{r as n}from"./index-ZVLgfvPJ.js";function r(){const[s,a]=n.useState(()=>typeof window<"u"&&window.matchMedia("(max-width: 767px)").matches);return n.useEffect(()=>{const e=window.matchMedia("(max-width: 767px)"),t=i=>a(i.matches);return e.addEventListener("change",t),()=>e.removeEventListener("change",t)},[]),s}export{r as u};

@@ -1,0 +1,1908 @@
+{
+  "version": 1,
+  "fetchedAt": "2026-08-20T14:26:27.373Z",
+  "sentences": [
+    {
+      "id": 5146772,
+      "ru": "Ты мог бы быть счастлив.",
+      "en": "You could have been happy.",
+      "words": 5
+    },
+    {
+      "id": 1383813,
+      "ru": "Да вы, батенька, философ?",
+      "en": "You're a philosopher, aren't you?",
+      "words": 4
+    },
+    {
+      "id": 4807954,
+      "ru": "Что тебе подарили на Рождество в этом году?",
+      "en": "What did you get for Christmas this year?",
+      "words": 8
+    },
+    {
+      "id": 2733377,
+      "ru": "Интересно, как его зовут.",
+      "en": "I wonder what his name is.",
+      "words": 4
+    },
+    {
+      "id": 4011279,
+      "ru": "Будь с ней осторожна.",
+      "en": "Be careful with her.",
+      "words": 4
+    },
+    {
+      "id": 5100414,
+      "ru": "От такой погоды мне хочется сидеть дома.",
+      "en": "This kind of weather makes me want to stay inside.",
+      "words": 7
+    },
+    {
+      "id": 3022330,
+      "ru": "Это вино не терпкое.",
+      "en": "This is a smooth wine.",
+      "words": 4
+    },
+    {
+      "id": 10227543,
+      "ru": "Когда же ты это решил?",
+      "en": "So when did you decide that?",
+      "words": 5
+    },
+    {
+      "id": 8590923,
+      "ru": "Это было последнее.",
+      "en": "That was the last one.",
+      "words": 3
+    },
+    {
+      "id": 7743057,
+      "ru": "Том нашёл это, не так ли?",
+      "en": "Tom found it, didn't he?",
+      "words": 6
+    },
+    {
+      "id": 6995528,
+      "ru": "Тому уже сказали, чтобы он не пытался делать это самостоятельно.",
+      "en": "Tom has already been told not to try to do that by himself.",
+      "words": 10
+    },
+    {
+      "id": 11903186,
+      "ru": "Продай это тому, кто предложит самую высокую цену.",
+      "en": "Sell it to the highest bidder.",
+      "words": 8
+    },
+    {
+      "id": 5611954,
+      "ru": "Я знаю, что вы несёте за это ответственность.",
+      "en": "I know you're responsible for this.",
+      "words": 8
+    },
+    {
+      "id": 1716289,
+      "ru": "Она спросила, как готовить рыбу.",
+      "en": "She asked how to cook the fish.",
+      "words": 5
+    },
+    {
+      "id": 12257895,
+      "ru": "Она в сером платье.",
+      "en": "She's wearing a gray dress.",
+      "words": 4
+    },
+    {
+      "id": 9465331,
+      "ru": "Она сказала, что очень благодарна.",
+      "en": "She said that she was very grateful.",
+      "words": 5
+    },
+    {
+      "id": 5485183,
+      "ru": "Она человек широких взглядов.",
+      "en": "She's open-minded.",
+      "words": 4
+    },
+    {
+      "id": 1415631,
+      "ru": "Она красивая.",
+      "en": "She is beautiful.",
+      "words": 2
+    },
+    {
+      "id": 4138956,
+      "ru": "Она что-то ищет?",
+      "en": "Is she looking for something?",
+      "words": 3
+    },
+    {
+      "id": 6890292,
+      "ru": "Мэри говорит, что она хорошо готовит.",
+      "en": "Mary says she cooks well.",
+      "words": 6
+    },
+    {
+      "id": 5102907,
+      "ru": "Я не сомневаюсь, что она замужем.",
+      "en": "I don't doubt that she is married.",
+      "words": 6
+    },
+    {
+      "id": 10212004,
+      "ru": "Что она ещё купила?",
+      "en": "What else did she buy?",
+      "words": 4
+    },
+    {
+      "id": 2708714,
+      "ru": "Его поступок испугал нас.",
+      "en": "His action frightened us.",
+      "words": 4
+    },
+    {
+      "id": 3267322,
+      "ru": "Я его занесу внутрь.",
+      "en": "I'll take it inside.",
+      "words": 4
+    },
+    {
+      "id": 3232797,
+      "ru": "Это такие, как ты, всем всё портят.",
+      "en": "It's people like you who are ruining it for everyone else.",
+      "words": 7
+    },
+    {
+      "id": 5231276,
+      "ru": "Вы любите смотреть фильмы?",
+      "en": "Do you like to watch movies?",
+      "words": 4
+    },
+    {
+      "id": 3335425,
+      "ru": "Давай пообедаем, прежде чем идти на бейсбол.",
+      "en": "Let's have dinner before we go to the baseball game.",
+      "words": 7
+    },
+    {
+      "id": 3283665,
+      "ru": "Мой сын никогда бы так не поступил.",
+      "en": "My son would never do that.",
+      "words": 7
+    },
+    {
+      "id": 3654687,
+      "ru": "Он сделал то, что они ему сказали.",
+      "en": "He did what they told him.",
+      "words": 7
+    },
+    {
+      "id": 5089222,
+      "ru": "Лучше бы тебе отсюда убраться как можно скорее.",
+      "en": "You'd better get yourself out of here as quickly as possible.",
+      "words": 8
+    },
+    {
+      "id": 5211469,
+      "ru": "Не заходите ко мне в комнату.",
+      "en": "Don't go in my room.",
+      "words": 6
+    },
+    {
+      "id": 4036023,
+      "ru": "Том дал своей собаке часть своего бутерброда.",
+      "en": "Tom fed his dog part of his sandwich.",
+      "words": 7
+    },
+    {
+      "id": 7578735,
+      "ru": "Том - один из лучших студентов Мэри.",
+      "en": "Tom is one of Mary's best students.",
+      "words": 7
+    },
+    {
+      "id": 10483292,
+      "ru": "К тому времени, как мы туда добрались, было уже темно.",
+      "en": "It was already dark by the time we got there.",
+      "words": 10
+    },
+    {
+      "id": 5499064,
+      "ru": "Том съел кесадилью.",
+      "en": "Tom ate a quesadilla.",
+      "words": 3
+    },
+    {
+      "id": 7154329,
+      "ru": "Том всегда был выше меня.",
+      "en": "Tom has always been taller than me.",
+      "words": 5
+    },
+    {
+      "id": 8459042,
+      "ru": "Том не читал эту книгу.",
+      "en": "Tom hasn't read that book.",
+      "words": 5
+    },
+    {
+      "id": 13341028,
+      "ru": "Ты же на самом деле не будешь убивать Тома?",
+      "en": "You aren't really going to kill Tom, are you?",
+      "words": 9
+    },
+    {
+      "id": 8561385,
+      "ru": "Том здесь уже несколько недель.",
+      "en": "Tom has been here for weeks.",
+      "words": 5
+    },
+    {
+      "id": 6881046,
+      "ru": "Том сказал Мэри, чтобы она не соглашалась это делать.",
+      "en": "Tom told Mary not to agree to do that.",
+      "words": 9
+    },
+    {
+      "id": 4898293,
+      "ru": "Том и Мэри богаты.",
+      "en": "Tom and Mary are rich.",
+      "words": 4
+    },
+    {
+      "id": 7293827,
+      "ru": "Том сказал, что не хочет, чтобы я рассказывал Мэри, что произошло.",
+      "en": "Tom said he didn't want me to tell Mary what had happened.",
+      "words": 11
+    },
+    {
+      "id": 7949109,
+      "ru": "Том забыл зонтик у Мэри в машине.",
+      "en": "Tom forgot his umbrella in Mary's car.",
+      "words": 7
+    },
+    {
+      "id": 13019750,
+      "ru": "Едва войдя в комнату, Том почувствовал запах духов Мэри.",
+      "en": "Tom could smell Mary's perfume as soon as he entered the room.",
+      "words": 9
+    },
+    {
+      "id": 2899610,
+      "ru": "Том не мог свести глаз с Мэри.",
+      "en": "Tom couldn't take his eyes off of Mary.",
+      "words": 7
+    },
+    {
+      "id": 4856670,
+      "ru": "Том подумал, что для Мэри будет опасно идти в одиночку.",
+      "en": "Tom thought it would be dangerous for Mary to go alone.",
+      "words": 10
+    },
+    {
+      "id": 4241314,
+      "ru": "Том даже не попытался помочь Мэри.",
+      "en": "Tom didn't even try to help Mary.",
+      "words": 6
+    },
+    {
+      "id": 4615198,
+      "ru": "Мэри - плохая девочка.",
+      "en": "Mary is a bad girl.",
+      "words": 4
+    },
+    {
+      "id": 6707339,
+      "ru": "Мэри уволили с работы.",
+      "en": "Mary was fired from her job.",
+      "words": 4
+    },
+    {
+      "id": 12239237,
+      "ru": "Я боюсь того, что может сделать Том.",
+      "en": "I'm afraid of what Tom might do.",
+      "words": 7
+    },
+    {
+      "id": 3758093,
+      "ru": "Поверить не могу, что он только что сказал это.",
+      "en": "I can't believe he just said that.",
+      "words": 9
+    },
+    {
+      "id": 7093764,
+      "ru": "Откуда ты знаешь, что Том сейчас там?",
+      "en": "How do you know that's where Tom is now?",
+      "words": 7
+    },
+    {
+      "id": 5108985,
+      "ru": "Я знаю, что скоро умру.",
+      "en": "I know that I will die soon.",
+      "words": 5
+    },
+    {
+      "id": 13305554,
+      "ru": "Я бы ни за что не стал это есть.",
+      "en": "Under no circumstances would I eat that.",
+      "words": 9
+    },
+    {
+      "id": 13867740,
+      "ru": "Спасибо. Я очень рад, что оно тебе понравилось.",
+      "en": "Thank you. I'm very glad you liked it.",
+      "words": 8
+    },
+    {
+      "id": 4484622,
+      "ru": "Том очень расстроен тем, что ему сказала Мэри.",
+      "en": "Tom is very upset by what Mary told him.",
+      "words": 8
+    },
+    {
+      "id": 3497441,
+      "ru": "Вы знаете, что поступили правильно.",
+      "en": "You know you did the right thing.",
+      "words": 5
+    },
+    {
+      "id": 7359594,
+      "ru": "Простите, что опоздал. Это больше не повторится.",
+      "en": "I'm sorry I was late. It won't happen again.",
+      "words": 7
+    },
+    {
+      "id": 3530896,
+      "ru": "Вы знаете, что в том ящике?",
+      "en": "Do you know what's in that box?",
+      "words": 6
+    },
+    {
+      "id": 7432193,
+      "ru": "Мэри купила Тому экземпляр книги «Как завоевывать друзей и оказывать влияние на людей» Дейла Карнеги.",
+      "en": "Mary bought Tom a copy of \"How to Win Friends and Influence People\", by Dale Carnegie.",
+      "words": 15
+    },
+    {
+      "id": 8517430,
+      "ru": "Я не знаю, как пользоваться этим компасом.",
+      "en": "I don't know how to use this compass.",
+      "words": 7
+    },
+    {
+      "id": 6863022,
+      "ru": "Давай ещё раз как-нибудь это сделаем.",
+      "en": "Let's do it again sometime.",
+      "words": 6
+    },
+    {
+      "id": 3282731,
+      "ru": "Я только один раз слышал, как он играет на фортепиано.",
+      "en": "I heard him play the piano only once.",
+      "words": 10
+    },
+    {
+      "id": 13268257,
+      "ru": "Она выглядит как модель.",
+      "en": "She looks like a model.",
+      "words": 4
+    },
+    {
+      "id": 3986751,
+      "ru": "Ты понимаешь, как оно работает?",
+      "en": "Do you understand how it works?",
+      "words": 5
+    },
+    {
+      "id": 8955057,
+      "ru": "Как занятие?",
+      "en": "How was your class?",
+      "words": 2
+    },
+    {
+      "id": 4756069,
+      "ru": "Я видел, как Том вышел из аудитории.",
+      "en": "I saw Tom leave the auditorium.",
+      "words": 7
+    },
+    {
+      "id": 3829845,
+      "ru": "Том не такой высокий, как я.",
+      "en": "Tom isn't as tall as I am.",
+      "words": 6
+    },
+    {
+      "id": 567803,
+      "ru": "Отец радуется, когда узнает во мне свои черты.",
+      "en": "My father is happy when he sees his traits in me.",
+      "words": 8
+    },
+    {
+      "id": 6851936,
+      "ru": "Я купил эту шляпу, когда был в Бостоне.",
+      "en": "I bought this hat when I was in Boston.",
+      "words": 8
+    },
+    {
+      "id": 4814213,
+      "ru": "Когда ты с ними познакомилась?",
+      "en": "When did you meet them?",
+      "words": 5
+    },
+    {
+      "id": 4691537,
+      "ru": "Когда ты в последний раз готовил еду?",
+      "en": "When was the last time you cooked a meal?",
+      "words": 7
+    },
+    {
+      "id": 2799137,
+      "ru": "Смотрите на меня, когда я с вами разговариваю!",
+      "en": "Look at me when I talk to you!",
+      "words": 8
+    },
+    {
+      "id": 5638710,
+      "ru": "Я достаточно взрослый, чтобы приходить домой, когда хочу.",
+      "en": "I'm old enough to not have a curfew.",
+      "words": 8
+    },
+    {
+      "id": 9699290,
+      "ru": "Если б только она была дома, когда я вчера звонил.",
+      "en": "If only she had been home when I called yesterday.",
+      "words": 10
+    },
+    {
+      "id": 2466167,
+      "ru": "Он ещё был здесь, когда ты приехала?",
+      "en": "Was he still here when you arrived?",
+      "words": 7
+    },
+    {
+      "id": 8438964,
+      "ru": "Когда он вам её даст?",
+      "en": "When will he give it to you?",
+      "words": 5
+    },
+    {
+      "id": 7937600,
+      "ru": "Она придёт, если вы её об этом попросите.",
+      "en": "She'll come if you ask her to.",
+      "words": 8
+    },
+    {
+      "id": 5135487,
+      "ru": "Если бы Том был здесь, он бы знал, что делать.",
+      "en": "If Tom were here, he'd know what to do.",
+      "words": 10
+    },
+    {
+      "id": 7871860,
+      "ru": "Если вам есть что сказать - говорите.",
+      "en": "If you've got something to say, say it.",
+      "words": 7
+    },
+    {
+      "id": 9327336,
+      "ru": "Я сделаю это, только если вы мне заплатите.",
+      "en": "I won't do that unless you pay me.",
+      "words": 8
+    },
+    {
+      "id": 12979118,
+      "ru": "Если я что-то могу сделать, дай мне знать.",
+      "en": "If there's anything I can do, let me know.",
+      "words": 8
+    },
+    {
+      "id": 3760038,
+      "ru": "Если честно, я никогда не видел ни одного.",
+      "en": "Actually, I've never seen one.",
+      "words": 8
+    },
+    {
+      "id": 12829350,
+      "ru": "Если мне понадобится ваше мнение, я у вас спрошу.",
+      "en": "If I want your opinion, I'll ask for it.",
+      "words": 9
+    },
+    {
+      "id": 4689785,
+      "ru": "Продажи в Японии невелики, если сравнивать их с продажами в Европе.",
+      "en": "The sales in Japan are small in comparison with those in Europe.",
+      "words": 11
+    },
+    {
+      "id": 423039,
+      "ru": "Мне нравится этот дом, потому что он очень уютный.",
+      "en": "I like this house, because it is very comfortable.",
+      "words": 9
+    },
+    {
+      "id": 2499982,
+      "ru": "Если ты не хочешь воспользоваться солнцезащитным кремом, это твоя проблема. Просто потом не жалуйся мне на солнечные ожоги.",
+      "en": "If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn.",
+      "words": 18
+    },
+    {
+      "id": 13648675,
+      "ru": "Сначала образование, потом свадьба.",
+      "en": "First education, then marriage.",
+      "words": 4
+    },
+    {
+      "id": 13045099,
+      "ru": "Я потом на кухне уберусь.",
+      "en": "I'll clean up the kitchen later.",
+      "words": 5
+    },
+    {
+      "id": 13520958,
+      "ru": "Мы приехали на минуту позже, потому что опоздали на автобус.",
+      "en": "We arrived a minute late because we missed the bus.",
+      "words": 10
+    },
+    {
+      "id": 7015086,
+      "ru": "Я не могу ждать, потому что мне некогда.",
+      "en": "I can't wait because I'm in a hurry.",
+      "words": 8
+    },
+    {
+      "id": 2516683,
+      "ru": "Красота – это страшная и ужасная вещь! Страшная, потому что неопределимая, а определить нельзя потому, что Бог задал одни загадки. Тут берега сходятся, тут все противоречия вместе живут.",
+      "en": "Beauty is a terrible and awful thing! It is terrible because it has not been fathomed, for God sets us nothing but riddles. Here the boundaries meet and all contradictions exist side by side.",
+      "words": 28
+    },
+    {
+      "id": 12451450,
+      "ru": "Она поругалась с ним, а потом ударила.",
+      "en": "She argued with him and then hit him.",
+      "words": 7
+    },
+    {
+      "id": 411088,
+      "ru": "Кто в любви, тот в боге и бог в нем, потому что бог есть любовь.",
+      "en": "He who has love, is in God, and God is in him, for God is love.",
+      "words": 15
+    },
+    {
+      "id": 8123924,
+      "ru": "Если бы люди никогда не влюблялись, или неудачи в любви не разбивали бы им сердца, о чём бы писали поэты-песенники?",
+      "en": "If people never fell in love or got their hearts broken when love fails, what would lyricists write their songs about?",
+      "words": 20
+    },
+    {
+      "id": 4609157,
+      "ru": "Поэтому мы и не сказали Тому.",
+      "en": "That's why we didn't tell Tom.",
+      "words": 6
+    },
+    {
+      "id": 9202650,
+      "ru": "Том мне не поэтому нравится.",
+      "en": "That's not why I like Tom.",
+      "words": 5
+    },
+    {
+      "id": 1398881,
+      "ru": "Она замужем за учителем английского языка и поэтому может брать бесплатные уроки.",
+      "en": "She is married to an English teacher, so she can take lessons free of charge.",
+      "words": 12
+    },
+    {
+      "id": 13849380,
+      "ru": "Мы торопимся, поэтому давайте поедем на такси.",
+      "en": "We're in a hurry, so let's take a taxi.",
+      "words": 7
+    },
+    {
+      "id": 4659274,
+      "ru": "Мэри не хотела надевать на Хэллоуин откровенный костюм и поэтому решила одеться как женщина-амиш.",
+      "en": "Mary didn't want to wear a sexy costume for Halloween so she decided to dress like an Amish woman.",
+      "words": 14
+    },
+    {
+      "id": 7769468,
+      "ru": "Он величайший поэт из когда-либо живших.",
+      "en": "He is the greatest poet that ever lived.",
+      "words": 6
+    },
+    {
+      "id": 8170079,
+      "ru": "Я была уставшая и поэтому пошла спать.",
+      "en": "I was tired so I went to bed.",
+      "words": 7
+    },
+    {
+      "id": 10081130,
+      "ru": "Сегодня утром я проспал, поэтому не завтракал.",
+      "en": "I overslept this morning, therefore I haven't had my breakfast.",
+      "words": 7
+    },
+    {
+      "id": 4913912,
+      "ru": "Факт, что Том постоянно спорит, раздражало его одноклассников. Однако большинство научилось его игнорировать.",
+      "en": "Tom's constant arguing irritates some of his classmates. However, most of the class has just learned to ignore him.",
+      "words": 13
+    },
+    {
+      "id": 5518689,
+      "ru": "Однако Вселенная бесконечна.",
+      "en": "But the universe is infinite.",
+      "words": 3
+    },
+    {
+      "id": 3292342,
+      "ru": "Тому Мэри не нравится. Однако её не особенно волнует, нравится она ему или нет.",
+      "en": "Tom doesn't like Mary. However, she doesn't particularly care whether he likes her or not.",
+      "words": 14
+    },
+    {
+      "id": 4913944,
+      "ru": "Я знаю, что некоторые из вас хотят, чтобы все было по-прежнему, однако этого не будет.",
+      "en": "I know some of you want to go back to the way things were, but that's not going to happen.",
+      "words": 15
+    },
+    {
+      "id": 3529646,
+      "ru": "Думаю, это может сделать Том и только Том. Однако некоторые считают, что и Мэри могла бы.",
+      "en": "I think that Tom and only Tom can do it. However, some people think that Mary could do it, too.",
+      "words": 16
+    },
+    {
+      "id": 11565009,
+      "ru": "Однако сегодня я думаю по-другому.",
+      "en": "However, today I think differently.",
+      "words": 5
+    },
+    {
+      "id": 3352766,
+      "ru": "Вы можете играть на этом фортепиано, однако не ночью.",
+      "en": "You can play this piano, but not at night.",
+      "words": 9
+    },
+    {
+      "id": 6592657,
+      "ru": "Вы знаете, куда хотите поехать?",
+      "en": "Do you know where you want to go?",
+      "words": 5
+    },
+    {
+      "id": 6597642,
+      "ru": "Хотите, я останусь?",
+      "en": "Do you want me to stay?",
+      "words": 3
+    },
+    {
+      "id": 10762318,
+      "ru": "Чем хотите заняться потом?",
+      "en": "What do you want to do next?",
+      "words": 4
+    },
+    {
+      "id": 10171650,
+      "ru": "Вам необязательно идти с Томом, если вы не хотите.",
+      "en": "You don't have to go with Tom if you don't want to.",
+      "words": 9
+    },
+    {
+      "id": 13111846,
+      "ru": "Мы хотим разного в жизни.",
+      "en": "We want different things in life.",
+      "words": 5
+    },
+    {
+      "id": 6405315,
+      "ru": "Мы обе хотим это сделать.",
+      "en": "We both want to do that.",
+      "words": 5
+    },
+    {
+      "id": 812942,
+      "ru": "Качество его работы ниже среднего.",
+      "en": "His work is below average.",
+      "words": 5
+    },
+    {
+      "id": 1936632,
+      "ru": "Нет тяжелее работы, чем та, что тебе не нравится.",
+      "en": "No work is as hard as the one you don't like to do.",
+      "words": 9
+    },
+    {
+      "id": 4736441,
+      "ru": "Он сделает всё возможное, чтобы закончить работу.",
+      "en": "He'll do his best to finish the job.",
+      "words": 7
+    },
+    {
+      "id": 8472791,
+      "ru": "Том вчера пришёл с работы позже обычного.",
+      "en": "Tom arrived home from work later than usual yesterday.",
+      "words": 7
+    },
+    {
+      "id": 10183239,
+      "ru": "Это работа не бей лежачего.",
+      "en": "This work is a piece of cake.",
+      "words": 5
+    },
+    {
+      "id": 6909231,
+      "ru": "У нас есть кое-какая работа.",
+      "en": "We have work to do.",
+      "words": 5
+    },
+    {
+      "id": 3550773,
+      "ru": "Том заснул на работе.",
+      "en": "Tom fell asleep on the job.",
+      "words": 4
+    },
+    {
+      "id": 13264096,
+      "ru": "Ты проделал великолепную работу.",
+      "en": "You've done a magnificent job.",
+      "words": 4
+    },
+    {
+      "id": 12460509,
+      "ru": "Назовите мне причину, по которой вы опоздали в школу.",
+      "en": "Tell me the reason why you were late for school.",
+      "words": 9
+    },
+    {
+      "id": 10479266,
+      "ru": "В школе меня третировали.",
+      "en": "I used to get bullied in school.",
+      "words": 4
+    },
+    {
+      "id": 6684869,
+      "ru": "Тома не было в школе в прошлый понедельник.",
+      "en": "Tom was absent from school last Monday.",
+      "words": 8
+    },
+    {
+      "id": 8109395,
+      "ru": "До окончания начальной школы, у Али начала возникать эрекция.",
+      "en": "Before he left primary school, Ali began to have erections.",
+      "words": 9
+    },
+    {
+      "id": 7903200,
+      "ru": "Том преподаёт в этой школе.",
+      "en": "Tom teaches at this school.",
+      "words": 5
+    },
+    {
+      "id": 4311150,
+      "ru": "Том сказал мне, что не собирается завтра в школу.",
+      "en": "Tom told me he wasn't going to be at school tomorrow.",
+      "words": 9
+    },
+    {
+      "id": 4107353,
+      "ru": "Я могу дойти до школы пешком за 10 минут.",
+      "en": "I can walk to school in 10 minutes.",
+      "words": 9
+    },
+    {
+      "id": 6068577,
+      "ru": "Том пришёл из школы раньше обычного.",
+      "en": "Tom's home from school earlier than usual.",
+      "words": 6
+    },
+    {
+      "id": 4528009,
+      "ru": "Вернитесь домой.",
+      "en": "Come back home.",
+      "words": 2
+    },
+    {
+      "id": 510907,
+      "ru": "Дом птицы - лес, дом рыбы - река, дом пчелы - цветок, дом детей - Китай. Мы с детства любим нашу родину, так же, как птички любят лес, рыбки любят реку, пчёлки любят цветы.",
+      "en": "The birds' home is in the forest, the fish's home is in the river, the bees' home is in the flowers, and the little children's is in China. We love our motherland from the time we're little, as the birds love the forest, the fish love the river, and the bees love the flowers.",
+      "words": 34
+    },
+    {
+      "id": 4586004,
+      "ru": "Том пробрался через пламя и спас ребёнка из горящего дома.",
+      "en": "Tom fought his way through the flames and rescued the child from the burning house.",
+      "words": 10
+    },
+    {
+      "id": 11218052,
+      "ru": "Как вы собираетесь возвращаться домой?",
+      "en": "How are you going to get home?",
+      "words": 5
+    },
+    {
+      "id": 5602513,
+      "ru": "Ты мог пойти домой.",
+      "en": "You could go home.",
+      "words": 4
+    },
+    {
+      "id": 9139626,
+      "ru": "Дом вот-вот рухнет.",
+      "en": "The house is about to collapse.",
+      "words": 3
+    },
+    {
+      "id": 3766781,
+      "ru": "Я из дома.",
+      "en": "I'm coming from home.",
+      "words": 3
+    },
+    {
+      "id": 9180498,
+      "ru": "Какой город является столицей Египта?",
+      "en": "What's the capital of Egypt?",
+      "words": 5
+    },
+    {
+      "id": 13057256,
+      "ru": "Никого из моих друзей нет в городе.",
+      "en": "All of my friends are out of town.",
+      "words": 7
+    },
+    {
+      "id": 1711722,
+      "ru": "Говорят, что он самый богатый человек в городе.",
+      "en": "They say he's the richest person in the city.",
+      "words": 8
+    },
+    {
+      "id": 2195141,
+      "ru": "Копенгаген является одним из наиболее пригодных для жизни городов в мире.",
+      "en": "Copenhagen is one of the world's most liveable cities.",
+      "words": 11
+    },
+    {
+      "id": 467273,
+      "ru": "Это роскошный город.",
+      "en": "This is a gorgeous town.",
+      "words": 3
+    },
+    {
+      "id": 11944679,
+      "ru": "Мы направляемся обратно в город.",
+      "en": "We're heading back to town.",
+      "words": 5
+    },
+    {
+      "id": 11576137,
+      "ru": "Леонардо Фибоначчи родился в городе Пиза.",
+      "en": "Leonardo Fibonacci was born in the city of Pisa.",
+      "words": 6
+    },
+    {
+      "id": 8214579,
+      "ru": "А с чего вы взяли, что Калининград - это европейский город?",
+      "en": "What makes you think Kaliningrad is a European city?",
+      "words": 11
+    },
+    {
+      "id": 1184320,
+      "ru": "Владивосток - это город в России.",
+      "en": "Vladivostok is a city in Russia.",
+      "words": 6
+    },
+    {
+      "id": 13511088,
+      "ru": "Книги - мои друзья.",
+      "en": "Books are my friends.",
+      "words": 4
+    },
+    {
+      "id": 11043018,
+      "ru": "Книг у них мало.",
+      "en": "They have few books.",
+      "words": 4
+    },
+    {
+      "id": 3451737,
+      "ru": "Я хочу некоторые из этих книг.",
+      "en": "I want some of these books.",
+      "words": 6
+    },
+    {
+      "id": 10963431,
+      "ru": "Ваши книги на письменном столе.",
+      "en": "Your books are on the desk.",
+      "words": 5
+    },
+    {
+      "id": 7937350,
+      "ru": "Она всегда носит с собой книгу.",
+      "en": "She always carries a book with her.",
+      "words": 6
+    },
+    {
+      "id": 8038849,
+      "ru": "Когда вы в последний раз держали в руках книгу?",
+      "en": "When's the last time you held a book in your hands?",
+      "words": 9
+    },
+    {
+      "id": 10838856,
+      "ru": "Я вчера начал новую книгу.",
+      "en": "I started a new book yesterday.",
+      "words": 5
+    },
+    {
+      "id": 4709501,
+      "ru": "Не думаю, что у меня будет сегодня на это время.",
+      "en": "I don't think I'll have the time to do that today.",
+      "words": 10
+    },
+    {
+      "id": 3237763,
+      "ru": "Во время жаркой погоды будьте уверены, что вы пьёте много воды.",
+      "en": "During hot weather, be sure to drink lots of water.",
+      "words": 11
+    },
+    {
+      "id": 9485420,
+      "ru": "В свободное время она чаще всего играет на пианино.",
+      "en": "During her free time, she most often plays piano.",
+      "words": 9
+    },
+    {
+      "id": 10005686,
+      "ru": "Во время рождественских каникул вход свободный.",
+      "en": "Admission is free during Christmas break.",
+      "words": 6
+    },
+    {
+      "id": 3136457,
+      "ru": "В последнее время я много думал о Томе.",
+      "en": "I've been thinking a lot about Tom lately.",
+      "words": 8
+    },
+    {
+      "id": 7681024,
+      "ru": "У нас впереди длинный день.",
+      "en": "We have a long day ahead of us.",
+      "words": 5
+    },
+    {
+      "id": 6928255,
+      "ru": "Том по-прежнему каждый день занимается французским?",
+      "en": "Does Tom still study French every day?",
+      "words": 6
+    },
+    {
+      "id": 9527880,
+      "ru": "Я тренируюсь каждый день по три часа.",
+      "en": "I practice three hours every day.",
+      "words": 7
+    },
+    {
+      "id": 7274293,
+      "ru": "Я думаю о ней каждый день.",
+      "en": "I think about her every day.",
+      "words": 6
+    },
+    {
+      "id": 424485,
+      "ru": "День был дождливый, и, что хуже, с грозой.",
+      "en": "The day was rainy, and what was worse, thundering.",
+      "words": 8
+    },
+    {
+      "id": 13918585,
+      "ru": "Мы каждый день ходили на площадь играть в футбол.",
+      "en": "We used to go to the plaza every day to play soccer.",
+      "words": 9
+    },
+    {
+      "id": 8575845,
+      "ru": "Она весь день не обращала на неё внимания.",
+      "en": "She ignored her for the entire day.",
+      "words": 8
+    },
+    {
+      "id": 3059211,
+      "ru": "Я отпраздновал свой день рождения в ресторане.",
+      "en": "I had my birthday party at a restaurant.",
+      "words": 7
+    },
+    {
+      "id": 6468272,
+      "ru": "Я приехал в Бостон в 2013 году.",
+      "en": "I came to Boston in 2013.",
+      "words": 7
+    },
+    {
+      "id": 6289605,
+      "ru": "Отца не стало два года назад.",
+      "en": "My father passed away two years ago.",
+      "words": 6
+    },
+    {
+      "id": 3886507,
+      "ru": "Я был у Тома в Бостоне три года назад.",
+      "en": "I visited Tom in Boston three years ago.",
+      "words": 9
+    },
+    {
+      "id": 5351585,
+      "ru": "В этом году Рождество приходится на воскресенье.",
+      "en": "Christmas falls on Sunday this year.",
+      "words": 7
+    },
+    {
+      "id": 12957874,
+      "ru": "Он был в Италии в прошлом году.",
+      "en": "He was in Italy last year.",
+      "words": 7
+    },
+    {
+      "id": 8058403,
+      "ru": "Сколько раз в год ты ходишь кататься на лыжах?",
+      "en": "How many times a year do you go skiing?",
+      "words": 9
+    },
+    {
+      "id": 3693998,
+      "ru": "Я играю в теннис круглый год.",
+      "en": "I play tennis all the year around.",
+      "words": 6
+    },
+    {
+      "id": 10979816,
+      "ru": "Прошел год после его смерти.",
+      "en": "A year has passed since he died.",
+      "words": 5
+    },
+    {
+      "id": 2681113,
+      "ru": "Мустафа Кемаль Ататюрк провозгласил образование Турецкой Республики в тысяча девятьсот двадцать третьем году.",
+      "en": "Mustafa Kemal Atatürk proclaimed the Turkish Republic in 1923.",
+      "words": 13
+    },
+    {
+      "id": 6386364,
+      "ru": "Мои мама и папа – единственные люди на всей земле, для кого я не пожалею ничего. Если я добьюсь больших успехов, это будет их заслугой; они прекрасные люди и их безусловная любовь к своим детям ставит их выше всяких похвал. Она перекрывает все их несовершенства, которые могли проявиться от нелегкой жизни.",
+      "en": "My mother and father are the only people on the whole planet whom I will never begrudge a thing. Should I achieve great things, it is the work of their hands; they are splendid people and their absolute love of their children places them above the highest praise. It cloaks all of their shortcomings, shortcomings that may have resulted from a difficult life.",
+      "words": 51
+    },
+    {
+      "id": 6673612,
+      "ru": "Ты моя жизнь и всё, чего я хочу и что мне нужно.",
+      "en": "You're my life and all that I want and need.",
+      "words": 12
+    },
+    {
+      "id": 13890765,
+      "ru": "Мы пытаемся спасти Тому жизнь.",
+      "en": "We're trying to save Tom's life.",
+      "words": 5
+    },
+    {
+      "id": 5280764,
+      "ru": "Привет, как жизнь?",
+      "en": "Hi, how're you doing?",
+      "words": 3
+    },
+    {
+      "id": 4438789,
+      "ru": "У меня было такое чувство, что моя жизнь закончилась.",
+      "en": "I felt like my life was over.",
+      "words": 9
+    },
+    {
+      "id": 4688710,
+      "ru": "Он усложняет ей жизнь.",
+      "en": "He's making life difficult for her.",
+      "words": 4
+    },
+    {
+      "id": 8641405,
+      "ru": "Сосед спас мне жизнь.",
+      "en": "My neighbor saved my life.",
+      "words": 4
+    },
+    {
+      "id": 4914865,
+      "ru": "Они борются за свои жизни.",
+      "en": "They're fighting for their lives.",
+      "words": 5
+    },
+    {
+      "id": 1670780,
+      "ru": "Человек, с которым я разговаривал, мой преподаватель английского.",
+      "en": "The man I was talking to is my English teacher.",
+      "words": 8
+    },
+    {
+      "id": 13432392,
+      "ru": "Об этом знает только один человек. Этот человек - Том.",
+      "en": "There's only one person that knows about it. That person is Tom.",
+      "words": 10
+    },
+    {
+      "id": 778914,
+      "ru": "Смерть одного человека - трагедия, смерть миллионов - статистика.",
+      "en": "The death of one man is a tragedy. The death of millions is a statistic.",
+      "words": 9
+    },
+    {
+      "id": 4188825,
+      "ru": "Как только человек рождается, он уже начинает умирать.",
+      "en": "As soon as man is born he begins to die.",
+      "words": 8
+    },
+    {
+      "id": 3759590,
+      "ru": "Женитьба может быть прекрасным делом, если два человека понимают друг друга.",
+      "en": "Marriage can be a wonderful thing if two people understand each other.",
+      "words": 11
+    },
+    {
+      "id": 7004310,
+      "ru": "Этот человек Вам родственник?",
+      "en": "Is this person related to you?",
+      "words": 4
+    },
+    {
+      "id": 5695330,
+      "ru": "Будь человеком!",
+      "en": "Oh, have a heart.",
+      "words": 2
+    },
+    {
+      "id": 2580300,
+      "ru": "Бегемот может напасть на человека.",
+      "en": "A hippopotamus can attack a human.",
+      "words": 5
+    },
+    {
+      "id": 6787542,
+      "ru": "Я думаю, этого лучше не делать.",
+      "en": "I think it would be better not to do that.",
+      "words": 6
+    },
+    {
+      "id": 13652446,
+      "ru": "Я, вообще-то, не это хотел сказать.",
+      "en": "That actually isn't what I meant.",
+      "words": 6
+    },
+    {
+      "id": 6300866,
+      "ru": "Я хочу пригласить вас на вечеринку.",
+      "en": "I want to invite you to a party.",
+      "words": 6
+    },
+    {
+      "id": 12794041,
+      "ru": "Я рада тебе.",
+      "en": "I'm glad to see you.",
+      "words": 3
+    },
+    {
+      "id": 3697084,
+      "ru": "Я скоро вам позвоню.",
+      "en": "I'll call you soon.",
+      "words": 4
+    },
+    {
+      "id": 2402292,
+      "ru": "Я обычно принимаю душ вечером.",
+      "en": "I usually take a shower in the evening.",
+      "words": 5
+    },
+    {
+      "id": 11674994,
+      "ru": "Я нарочно произнёс его имя неправильно, чтобы ему досадить.",
+      "en": "I pronounced his name wrong on purpose to annoy him.",
+      "words": 9
+    },
+    {
+      "id": 5660400,
+      "ru": "Я из семьи врачей.",
+      "en": "I come from a family of doctors.",
+      "words": 4
+    },
+    {
+      "id": 6322687,
+      "ru": "После того как я принял это лекарство, мне стало лучше.",
+      "en": "I got better after taking that medicine.",
+      "words": 10
+    },
+    {
+      "id": 5888789,
+      "ru": "Он его нашёл.",
+      "en": "He found it.",
+      "words": 3
+    },
+    {
+      "id": 8754020,
+      "ru": "Это я уговорил Тома, чтобы он перестал этим заниматься.",
+      "en": "I'm the one who convinced Tom to stop doing that.",
+      "words": 9
+    },
+    {
+      "id": 470834,
+      "ru": "Он доктор по профессии.",
+      "en": "He is a doctor by profession.",
+      "words": 4
+    },
+    {
+      "id": 3946408,
+      "ru": "Я не хотел, чтобы он беспокоился.",
+      "en": "I didn't want him to worry.",
+      "words": 6
+    },
+    {
+      "id": 8868119,
+      "ru": "Во время допроса он признал свою вину.",
+      "en": "During the interrogation he admitted his guilt.",
+      "words": 7
+    },
+    {
+      "id": 5581608,
+      "ru": "Он сказал мне, что кто-то хочет меня видеть.",
+      "en": "He told me that there was someone who wanted to see me.",
+      "words": 8
+    },
+    {
+      "id": 6637095,
+      "ru": "Том сказал мне, что он ревнует.",
+      "en": "Tom told me that he was jealous.",
+      "words": 6
+    },
+    {
+      "id": 2298391,
+      "ru": "Он сознаёт свою вину.",
+      "en": "He is aware of his own fault.",
+      "words": 4
+    },
+    {
+      "id": 8734562,
+      "ru": "Она точно знала, что ей надо делать.",
+      "en": "She knew exactly what she had to do.",
+      "words": 7
+    },
+    {
+      "id": 13724129,
+      "ru": "Она знает много языков, но пишет только на своем родном языке.",
+      "en": "She knows many languages, but writes only in her native tongue.",
+      "words": 11
+    },
+    {
+      "id": 9031122,
+      "ru": "Она больше никогда его не увидит.",
+      "en": "She'll never see him again.",
+      "words": 6
+    },
+    {
+      "id": 10364999,
+      "ru": "Нынче она погружена в теннис.",
+      "en": "Nowadays she is lost in tennis.",
+      "words": 5
+    },
+    {
+      "id": 7907798,
+      "ru": "Она сказала, что ей страшно.",
+      "en": "She said that she was afraid.",
+      "words": 5
+    },
+    {
+      "id": 7623636,
+      "ru": "Думаю, она знает о нас.",
+      "en": "I think she knows about us.",
+      "words": 5
+    },
+    {
+      "id": 1924113,
+      "ru": "Мы хотели бы преподнести вам это в знак нашей признательности.",
+      "en": "We'd like to give this to you as a token of our appreciation.",
+      "words": 10
+    },
+    {
+      "id": 7544896,
+      "ru": "Мы тут немного заняты.",
+      "en": "We're kind of busy here.",
+      "words": 4
+    },
+    {
+      "id": 3224217,
+      "ru": "Мы вернулись.",
+      "en": "We're back.",
+      "words": 2
+    },
+    {
+      "id": 2679461,
+      "ru": "Поезд тронулся до того, как мы добрались до вокзала.",
+      "en": "The train left before we got to the station.",
+      "words": 9
+    },
+    {
+      "id": 5433923,
+      "ru": "Мы должны сделать работу за один день.",
+      "en": "We have to do the work in a day.",
+      "words": 7
+    },
+    {
+      "id": 9547595,
+      "ru": "Том сказал нам с Мэри, чтобы мы делали это сами.",
+      "en": "Tom told Mary and me to do that by ourselves.",
+      "words": 10
+    },
+    {
+      "id": 5469869,
+      "ru": "Мы работаем на фабрике.",
+      "en": "We work in a factory.",
+      "words": 4
+    },
+    {
+      "id": 12582413,
+      "ru": "В лесу мы увидели лису.",
+      "en": "In the woods, we saw a fox.",
+      "words": 5
+    },
+    {
+      "id": 13465590,
+      "ru": "Мы сбежали из тюрьмы.",
+      "en": "We escaped from prison.",
+      "words": 4
+    },
+    {
+      "id": 2552162,
+      "ru": "Мы слишком много думаем и слишком мало чувствуем.",
+      "en": "We think too much and feel too little.",
+      "words": 8
+    },
+    {
+      "id": 3595533,
+      "ru": "Можешь мне рассказать, как ты это сделал?",
+      "en": "Can you tell me how you did it?",
+      "words": 7
+    },
+    {
+      "id": 3566476,
+      "ru": "Я расскажу твоему отцу, как ты себя вёл!",
+      "en": "I'll tell your father how you behaved!",
+      "words": 8
+    },
+    {
+      "id": 4749632,
+      "ru": "Почему ты не оставишь меня в покое?",
+      "en": "Why don't you leave me alone?",
+      "words": 7
+    },
+    {
+      "id": 5066400,
+      "ru": "Ты действительно так наивна?",
+      "en": "Are you really that naive?",
+      "words": 4
+    },
+    {
+      "id": 4838555,
+      "ru": "Ты помнишь её?",
+      "en": "Do you remember her?",
+      "words": 3
+    },
+    {
+      "id": 11111131,
+      "ru": "Ты знаешь больше, чем думаешь.",
+      "en": "You know more than you think.",
+      "words": 5
+    },
+    {
+      "id": 2463947,
+      "ru": "Ты не знал, что он умер два года назад?",
+      "en": "Didn't you know that he passed away two years ago?",
+      "words": 9
+    },
+    {
+      "id": 5476767,
+      "ru": "Скажи мне, откуда ты знал.",
+      "en": "Tell me how you knew.",
+      "words": 5
+    },
+    {
+      "id": 1927460,
+      "ru": "И где ты был?",
+      "en": "So where were you?",
+      "words": 4
+    },
+    {
+      "id": 6477673,
+      "ru": "Положим, ты прав.",
+      "en": "Let's say that you're right.",
+      "words": 3
+    },
+    {
+      "id": 614899,
+      "ru": "Хочу конфету.",
+      "en": "I want a piece of candy.",
+      "words": 2
+    },
+    {
+      "id": 6963006,
+      "ru": "Я хочу, чтобы ты обо мне позаботилась.",
+      "en": "I want you to take care of me.",
+      "words": 7
+    },
+    {
+      "id": 4224766,
+      "ru": "Я не хочу, чтобы Том думал, что он должен меня защищать.",
+      "en": "I don't want Tom to think he has to protect me.",
+      "words": 11
+    },
+    {
+      "id": 6624648,
+      "ru": "Я не хочу делать это дома.",
+      "en": "I don't want to do that at home.",
+      "words": 6
+    },
+    {
+      "id": 8932260,
+      "ru": "Я хочу, чтобы ты держался от меня подальше.",
+      "en": "I want you to stay away from me.",
+      "words": 8
+    },
+    {
+      "id": 13198847,
+      "ru": "Я хочу послушать новости.",
+      "en": "I want to listen to the news.",
+      "words": 4
+    },
+    {
+      "id": 5514613,
+      "ru": "Я хочу получить ответ на этот вопрос.",
+      "en": "I want an answer to that question.",
+      "words": 7
+    },
+    {
+      "id": 2764378,
+      "ru": "Мне нужно учиться.",
+      "en": "I have to study.",
+      "words": 3
+    },
+    {
+      "id": 13039556,
+      "ru": "С такими союзниками и враги не нужны.",
+      "en": "With allies like these, you don't need enemies.",
+      "words": 7
+    },
+    {
+      "id": 4749786,
+      "ru": "Нам нужно расставить приоритеты.",
+      "en": "We need to prioritize.",
+      "words": 4
+    },
+    {
+      "id": 10336968,
+      "ru": "Мне нужно вино.",
+      "en": "I need wine.",
+      "words": 3
+    },
+    {
+      "id": 12058493,
+      "ru": "Иногда нам говорят, что нам нужно учиться у матери готовить.",
+      "en": "Sometimes we are told that we need to learn to cook from a mother.",
+      "words": 10
+    },
+    {
+      "id": 10271624,
+      "ru": "Мне нужна жёлтая бусина, чтобы сделать серединку для ромашки.",
+      "en": "I need a yellow bead to make the center of the daisy.",
+      "words": 9
+    },
+    {
+      "id": 448067,
+      "ru": "Чтобы забраться на крутой холм, сначала нужно идти медленным шагом.",
+      "en": "To climb steep hills requires a slow pace at first.",
+      "words": 10
+    },
+    {
+      "id": 13677054,
+      "ru": "Я хочу найти кого-то, с кем можно было бы поговорить.",
+      "en": "I want to find somebody to talk to.",
+      "words": 10
+    },
+    {
+      "id": 3940230,
+      "ru": "Можно я сегодня вечером посмотрю телевизор?",
+      "en": "May I watch TV tonight?",
+      "words": 6
+    },
+    {
+      "id": 13020320,
+      "ru": "Что угодно можно истолковать превратно.",
+      "en": "Anything can be misconstrued.",
+      "words": 5
+    },
+    {
+      "id": 2752710,
+      "ru": "Эту воду можно пить?",
+      "en": "Is this water okay to drink?",
+      "words": 4
+    },
+    {
+      "id": 1929998,
+      "ru": "Единственное лекарство против тщеславия - это смех; и единственный недостаток, над которым можно смеяться, - это тщеславие.",
+      "en": "Laughter is the only cure against vanity, and vanity is the only laughable fault.",
+      "words": 17
+    },
+    {
+      "id": 12352068,
+      "ru": "Можно мне те два?",
+      "en": "Can I have those two?",
+      "words": 4
+    },
+    {
+      "id": 8250500,
+      "ru": "Где можно купить конверты?",
+      "en": "Where can I buy envelopes?",
+      "words": 4
+    },
+    {
+      "id": 3060573,
+      "ru": "Можно мне воспользоваться вашим телефоном?",
+      "en": "May I use your phone?",
+      "words": 5
+    },
+    {
+      "id": 3214748,
+      "ru": "Я должен тридцать долларов Тому.",
+      "en": "I owe Tom thirty dollars.",
+      "words": 5
+    },
+    {
+      "id": 1510284,
+      "ru": "Я должен бежать на урок.",
+      "en": "I must hurry to class.",
+      "words": 5
+    },
+    {
+      "id": 11859275,
+      "ru": "Ты должен взвесить все \"за\" и \"против\".",
+      "en": "You must weigh up the pros and cons.",
+      "words": 7
+    },
+    {
+      "id": 4647073,
+      "ru": "Я должен это есть?",
+      "en": "Am I supposed to eat this?",
+      "words": 4
+    },
+    {
+      "id": 3694282,
+      "ru": "Я должен многое сделать сегодня днем.",
+      "en": "I have a lot of things to do this afternoon.",
+      "words": 6
+    },
+    {
+      "id": 4830503,
+      "ru": "Я должен был сказать ей.",
+      "en": "I had to tell her.",
+      "words": 5
+    },
+    {
+      "id": 2689209,
+      "ru": "Сколько документов ты должен перевести?",
+      "en": "How many documents do you have to translate?",
+      "words": 5
+    },
+    {
+      "id": 5408332,
+      "ru": "Я должен быть наказан.",
+      "en": "I have to be punished.",
+      "words": 4
+    },
+    {
+      "id": 4245480,
+      "ru": "Пожалуйста, скажи мне, что ты думаешь.",
+      "en": "Please tell me what you think.",
+      "words": 6
+    },
+    {
+      "id": 8631064,
+      "ru": "О чём ты вообще думала?!",
+      "en": "What were you even thinking?!",
+      "words": 5
+    },
+    {
+      "id": 13766188,
+      "ru": "Стал бы я делать это ещё раз? Не думаю.",
+      "en": "Would I do it again? No, I don't think so.",
+      "words": 9
+    },
+    {
+      "id": 1195449,
+      "ru": "Никто не умеет думать, но у каждого наготове есть своё мнение.",
+      "en": "No one knows how to think, but everyone's got an opinion ready.",
+      "words": 11
+    },
+    {
+      "id": 6321210,
+      "ru": "Мне всё равно, что обо мне думают.",
+      "en": "I don't care what people think about me.",
+      "words": 7
+    },
+    {
+      "id": 8909564,
+      "ru": "Я думаю, что Тома нет дома.",
+      "en": "I think Tom isn't home.",
+      "words": 6
+    },
+    {
+      "id": 6933672,
+      "ru": "Не думаю, что Том с Мэри помолвлены.",
+      "en": "I don't think Tom and Mary are engaged.",
+      "words": 7
+    },
+    {
+      "id": 3971071,
+      "ru": "Я думал, ты меня подождёшь.",
+      "en": "I thought you were going to wait for me.",
+      "words": 5
+    },
+    {
+      "id": 8840740,
+      "ru": "Думаю, это моё.",
+      "en": "I think that's mine.",
+      "words": 3
+    },
+    {
+      "id": 3205940,
+      "ru": "Вас понял.",
+      "en": "Roger that.",
+      "words": 2
+    },
+    {
+      "id": 5162818,
+      "ru": "Все узнают.",
+      "en": "Everyone will know.",
+      "words": 2
+    },
+    {
+      "id": 3992710,
+      "ru": "Скажи ей, что я здесь.",
+      "en": "Tell her that I'm here.",
+      "words": 5
+    },
+    {
+      "id": 2277676,
+      "ru": "Я проиграл на скачках, поэтому теперь у меня нет ни гроша в кармане.",
+      "en": "I just lost at the races so I'm flat broke.",
+      "words": 13
+    },
+    {
+      "id": 5543,
+      "ru": "Мой компьютер кое на что годится.",
+      "en": "My computer has got to be useful for something.",
+      "words": 6
+    },
+    {
+      "id": 4275841,
+      "ru": "Том будет здесь через пятнадцать минут.",
+      "en": "Tom will be here in fifteen minutes.",
+      "words": 6
+    },
+    {
+      "id": 3332783,
+      "ru": "Она заслуживает лучшего.",
+      "en": "She deserves better.",
+      "words": 3
+    },
+    {
+      "id": 447256,
+      "ru": "Я сделал ошибку.",
+      "en": "I made a mistake.",
+      "words": 3
+    },
+    {
+      "id": 2969472,
+      "ru": "Хотела бы я вернуться назад во времени.",
+      "en": "I wish I could go back in time.",
+      "words": 7
+    },
+    {
+      "id": 4185216,
+      "ru": "Прошлой ночью меня вырвало.",
+      "en": "Last night I puked.",
+      "words": 4
+    },
+    {
+      "id": 2759465,
+      "ru": "Я их не узнаю.",
+      "en": "I don't recognize them.",
+      "words": 4
+    },
+    {
+      "id": 4573016,
+      "ru": "Давай зайдем внутрь и поговорим.",
+      "en": "Let's go inside and talk.",
+      "words": 5
+    },
+    {
+      "id": 2557336,
+      "ru": "Уверен, что Том так не думает.",
+      "en": "I'm sure Tom doesn't think that.",
+      "words": 6
+    },
+    {
+      "id": 2877341,
+      "ru": "По утрам воздух свежий.",
+      "en": "The air is fresh in the morning.",
+      "words": 4
+    },
+    {
+      "id": 4626089,
+      "ru": "Как думаешь, что могло случиться?",
+      "en": "What do you think might happen?",
+      "words": 5
+    },
+    {
+      "id": 885136,
+      "ru": "Было холодно и вдобавок ветрено.",
+      "en": "It was cold, and, in addition, it was windy.",
+      "words": 5
+    },
+    {
+      "id": 6670986,
+      "ru": "Том мне о тебе не рассказывал.",
+      "en": "Tom didn't tell me about you.",
+      "words": 6
+    },
+    {
+      "id": 11674764,
+      "ru": "Я пошел в школу в первый раз, когда мне было семь лет. И я продолжаю учиться до сих пор, потому что мне еще многому нужно научиться.",
+      "en": "I went to school for the first time when I was seven years old. And I keep studying to this day because I still have a lot to learn.",
+      "words": 26
+    },
+    {
+      "id": 5490756,
+      "ru": "Зачем тебе нужен врач?",
+      "en": "Why do you need a doctor?",
+      "words": 4
+    },
+    {
+      "id": 8929964,
+      "ru": "Хорошо, что Том это сделал.",
+      "en": "It's good that Tom did that.",
+      "words": 5
+    },
+    {
+      "id": 13098107,
+      "ru": "Было много жертв.",
+      "en": "There were numerous victims.",
+      "words": 3
+    },
+    {
+      "id": 10708236,
+      "ru": "Вы живете далеко?",
+      "en": "Do you live far off?",
+      "words": 3
+    },
+    {
+      "id": 3760400,
+      "ru": "После инцидента их друзья и родственники стали навещать их реже.",
+      "en": "After the incident, their friends and relatives began to visit them less frequently.",
+      "words": 10
+    },
+    {
+      "id": 5134211,
+      "ru": "Ты знаешь, кто это был?",
+      "en": "Do you know who it was?",
+      "words": 5
+    },
+    {
+      "id": 12282035,
+      "ru": "У меня нет времени делать уроки.",
+      "en": "I have no time to do my homework.",
+      "words": 6
+    },
+    {
+      "id": 10346199,
+      "ru": "Оставь своё радио дома.",
+      "en": "Leave your radio at home.",
+      "words": 4
+    },
+    {
+      "id": 3071781,
+      "ru": "Ну как дела?",
+      "en": "How are things?",
+      "words": 3
+    },
+    {
+      "id": 3159665,
+      "ru": "Я достаточно взрослая.",
+      "en": "I'm old enough.",
+      "words": 3
+    },
+    {
+      "id": 2627245,
+      "ru": "Вы хотите подождать в машине?",
+      "en": "Do you want to wait in the car?",
+      "words": 5
+    },
+    {
+      "id": 4002633,
+      "ru": "Том играет на пианино лучше Мэри.",
+      "en": "Tom plays the piano better than Mary.",
+      "words": 6
+    },
+    {
+      "id": 6826817,
+      "ru": "Я убрал молоко в холодильник.",
+      "en": "I put the milk in the refrigerator.",
+      "words": 5
+    },
+    {
+      "id": 3198502,
+      "ru": "Какую они выберут?",
+      "en": "Which one will they choose?",
+      "words": 3
+    },
+    {
+      "id": 4094329,
+      "ru": "Это застало её врасплох.",
+      "en": "That surprised her.",
+      "words": 4
+    },
+    {
+      "id": 5049382,
+      "ru": "Разве сегодня ты не должен быть в школе?",
+      "en": "Aren't you supposed to be at school today?",
+      "words": 8
+    },
+    {
+      "id": 6922315,
+      "ru": "Том не хочет пить шампанское.",
+      "en": "Tom doesn't want to drink champagne.",
+      "words": 5
+    },
+    {
+      "id": 4946995,
+      "ru": "Она отдохнула у бассейна.",
+      "en": "She lounged by the pool.",
+      "words": 4
+    },
+    {
+      "id": 2781614,
+      "ru": "Её мать умерла, когда она была подростком.",
+      "en": "Her mother died when she was a teenager.",
+      "words": 7
+    },
+    {
+      "id": 2829912,
+      "ru": "Женщины с добрым сердцем всегда красивы, но у красивых женщин не всегда доброе сердце.",
+      "en": "Good-hearted women are always beautiful, but beautiful women are not always good-hearted.",
+      "words": 14
+    },
+    {
+      "id": 5680288,
+      "ru": "Том и Мэри поженились в Сочельник.",
+      "en": "Tom and Mary got married on Christmas Eve.",
+      "words": 6
+    },
+    {
+      "id": 825877,
+      "ru": "Я заплатил десять долларов за эту шляпу.",
+      "en": "I paid ten dollars for this cap.",
+      "words": 7
+    },
+    {
+      "id": 414108,
+      "ru": "Я медлил покидать его могилу.",
+      "en": "I hesitated to leave his grave.",
+      "words": 5
+    },
+    {
+      "id": 3682971,
+      "ru": "Имущество было поделено поровну между наследниками.",
+      "en": "The property was divided equally among the heirs.",
+      "words": 6
+    }
+  ]
+}

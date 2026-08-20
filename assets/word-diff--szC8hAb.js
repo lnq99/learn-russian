@@ -1,0 +1,1 @@
+function o(t){return t.toLowerCase().replace(/[.,!?;:«»""''—–]/g,"").trim()}function l(t,r){const n=t.split(/\s+/).filter(Boolean),c=r.split(/\s+/).filter(Boolean).map(o);return n.map(e=>({word:e,matched:c.includes(o(e))}))}function s(t){return t.length===0?0:Math.round(t.filter(r=>r.matched).length/t.length*100)}export{s as c,l as d};
